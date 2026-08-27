@@ -62,3 +62,7 @@ Me chamo Emanuel L. Pereira Facundes, tenho 21 anos e sou natural do Rio de Jane
 <div align="center">
 <img src="https://raw.githubusercontent.com/emanuelfacundes00/emanuelfacundes00/output/snake.svg" alt="Snake animation" />
 </div>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512f94,50:512f94,100:512f94&height=140&section=footer"/>
+</p>
