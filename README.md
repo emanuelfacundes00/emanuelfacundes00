@@ -2,10 +2,8 @@
 
 
 <div align="center">
-  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/PC%20Coding%20and%20Dislay%20app%20Mobile.svg" alt="Developer Laptop">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
 </div>
-
-<br>
 
 <div align="center">
   
@@ -17,17 +15,23 @@ Me chamo Emanuel L. Pereira Facundes, tenho 21 anos e sou natural do Rio de Jane
 </div>
 </div>
 
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+</div>
+
 <div align="center" style="display: inline_block"><br>
 
-### 🤖 Linguagens e Tecnologias
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+### 🤖 Linguagens e Tecnologias 🤖
  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
  <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
- <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  >
- <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  >
- <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  >
-
+ <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+ <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+ <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+          
 </div>
 
 <br>
